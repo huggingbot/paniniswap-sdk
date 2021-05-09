@@ -7,13 +7,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/paniniswap/panini-swap-sdk.git
+git clone https://github.com/paniniswap/paniniswap-sdk.git
 ```
 
-Move into the panini-swap-sdk working directory
+Move into the paniniswap-sdk working directory
 
 ```sh
-cd panini-swap-sdk/
+cd paniniswap-sdk/
 ```
 
 Install dependencies

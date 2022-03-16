@@ -1,4 +1,5 @@
 # PaniniSwap SDK
+PaniniSwap SDK contains a set of shared utility functions used to build pages on Panini's apps.
 
 ## Running tests
 
